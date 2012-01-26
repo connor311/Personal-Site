@@ -35,7 +35,5 @@ Thumbs.db
 
 # HTML 5 Boilerplate gened files #
 ##################################
-publish/
-publish/**/*
 intermediate/
 intermediate/**/*
