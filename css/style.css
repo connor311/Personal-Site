@@ -311,7 +311,7 @@ width:64px;
 
 .full_center
 {
-width:1024px;
+  	width:480px;
 margin-left:auto;
 margin-right:auto;
 }
@@ -329,11 +329,19 @@ margin-right:auto;
 
 @media only screen and (min-width: 480px) {
   /* Style adjustments for viewports 480px and over go here */
+  .full_center
+  {
+  	width:768px;
+  }
 
 }
 
 @media only screen and (min-width: 768px) {
   /* Style adjustments for viewports 768px and over go here */
+  .full_center
+  {
+	width:1024px;
+  }
 
 }
 
